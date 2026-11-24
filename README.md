@@ -35,4 +35,6 @@ left out:
 I decompiled the published `TextToSpeech.exe` and it matches this source: the same methods and the same
 text.
 
-Copyright © 2010 Lewis Moten.
+## License
+
+MIT. See [LICENSE](LICENSE).
